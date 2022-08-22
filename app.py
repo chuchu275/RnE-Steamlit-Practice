@@ -5,7 +5,7 @@ import numpy as np
 
 data = pd.read_csv('기숙사수용현황분석.csv')
 
-num1 = 108
+num1 = 208
 num2 = len(df[df['설립구분'] != '사립'['학교']].unique())
 num3 = len(df[df['설립구분'] != '사립']['학교'].unique())
 
